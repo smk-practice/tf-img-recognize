@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Dog</folder>
+  <filename>dog (3)</filename>
+  <path>D:\Practice\Tensorflow\Image\dogs\Dog\dog (3).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>336</width>
+    <height>150</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>dog</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>100</xmin>
+      <ymin>52</ymin>
+      <xmax>184</xmax>
+      <ymax>143</ymax>
+    </bndbox>
+  </object>
+</annotation>
